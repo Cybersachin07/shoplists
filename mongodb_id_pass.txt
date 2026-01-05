@@ -1,0 +1,32 @@
+sachinkmr1231_db_user     --id
+
+RI8jtVWhpdMwTMcm   ---pass
+
+
+mongodb+srv://sachinkmr1231_db_user:RI8jtVWhpdMwTMcm@shoplists.q5fuuno.mongodb.net/?appName=shoplists
+
+conn_string
+
+
+{
+    "_id": "695a1d62cb3b86c3521b96b4",
+    "name": "Test User",
+    "email": "test@example.com",
+    "role": "user",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5NWExZDYyY2IzYjg2YzM1MjFiOTZiNCIsImlhdCI6MTc2NzUxMzQ0MywiZXhwIjoxNzY4MTE4MjQzfQ.uXCZPEB51qLKRn47Sx-XEXYEQo-xWXSRjuEAGWETB7Q"
+}
+
+
+
+{
+    "_id": "695a1d62cb3b86c3521b96b4",
+    "name": "Test User",
+    "email": "test@example.com",
+    "role": "user",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5NWExZDYyY2IzYjg2YzM1MjFiOTZiNCIsImlhdCI6MTc2NzUxMzUxMCwiZXhwIjoxNzY4MTE4MzEwfQ.z6XvfFTc-J9qlQd6PB_1eZJhejd4sRNFsu6YaLxCOEU"
+}
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5NWExZDYyY2IzYjg2YzM1MjFiOTZiNCIsImlhdCI6MTc2NzUxNDI5MCwiZXhwIjoxNzY4MTE5MDkwfQ.fV-K7dibIqa3uZhg-x4v7QXK8VPzvnmlWywloXaSc3g
+
+product_id= "695a2a928d229613a004d8f5"
